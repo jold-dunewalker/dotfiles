@@ -1,6 +1,0 @@
-[user]
-	name = Jold
-	email = jold.dunewalker@gmail.com
-	signingkey = EC169FBA3C7D68C4
-[commit]
-	gpgsign = true
